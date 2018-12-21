@@ -1,0 +1,11 @@
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\bin\Debug\netcoreapp2.1\SimUDuck.deps.json
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\bin\Debug\netcoreapp2.1\SimUDuck.runtimeconfig.json
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\bin\Debug\netcoreapp2.1\SimUDuck.runtimeconfig.dev.json
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\bin\Debug\netcoreapp2.1\SimUDuck.dll
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\bin\Debug\netcoreapp2.1\SimUDuck.pdb
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\obj\Debug\netcoreapp2.1\SimUDuck.csprojAssemblyReference.cache
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\obj\Debug\netcoreapp2.1\SimUDuck.csproj.CoreCompileInputs.cache
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\obj\Debug\netcoreapp2.1\SimUDuck.AssemblyInfoInputs.cache
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\obj\Debug\netcoreapp2.1\SimUDuck.AssemblyInfo.cs
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\obj\Debug\netcoreapp2.1\SimUDuck.dll
+C:\Users\linho\source\repos\SimUDuckSolution\SimUDuck\obj\Debug\netcoreapp2.1\SimUDuck.pdb
